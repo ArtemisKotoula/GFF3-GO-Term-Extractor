@@ -16,4 +16,4 @@ perl extract_gff3_transcript_gos.pl <input_file> <output_file>
 | `<output_file>` | Path for the tab-separated output file |
 
 ## Requirements
-- Perl 5
+- [Perl 5](https://www.perl.org/)
