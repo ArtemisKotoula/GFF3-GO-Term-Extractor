@@ -4,6 +4,8 @@ A Perl utility for extracting Gene Ontology (GO) annotations from GFF3 annotatio
 ## Description
 This Perl script identifies for each gene (via its `Parent=` attribute), the transcript with the most `Ontology_term=` entries, making it straightforward to build a gene-level GO annotation table for use in downstream analyses like functional enrichment.
 
+A script for functional enrichment analysis is provided [here](https://github.com/ArtemisKotoula/GO-Term-Enrichment-Analysis).
+
 ## Usage
 
 ```bash
